@@ -15,7 +15,7 @@ https://gist.github.com/KristofferHebert/9b7f613be011ea34945ac3550b895674
 - Variable syntax is key = "value"
 
 ## Next Steps
-Stay tuned for the next tutorial!
+Strings: https://medium.com/@khbrt/python-with-kristoffer-hebert-pt-2-7ac124c4f067
 
 ## Have suggestions? Make a pull request!
 https://github.com/KristofferHebert/python-with-kristoffer-hebert

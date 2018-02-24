@@ -4,7 +4,7 @@ Learn about string.replace, len, and print in this chapter.
 ## Overview
 String.replace(target, new_value) takes two arguments. First argument is the target or part of the string you want to replace. Second argument is the new value you want to replace the target with.
 
-Len tells you the length of variable passed to it. It only takes one argument.
+Len(variable) tells you the length of variable passed to it. It only takes one argument.
 
 Print(variable) allows someone to write the value of a variable out to the console. This is useful in debugging.
 

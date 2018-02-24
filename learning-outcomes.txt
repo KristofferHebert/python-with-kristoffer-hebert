@@ -1,0 +1,33 @@
+chapter outline
+
+## Functions
+- variables
+- string manipulation
+Explain the use of functions
+- how to define a function
+
+## DATA STRUCTURES String manipulation, lists and File reader  
+Discuss how to process strings, lists, and files
+- File reader
+- String manipulation
+- Arguments ARGV
+
+## Loops
+Discuss the use of programming loops
+- while loops
+- for loops
+Explain the concept of decision structures
+- show boolean logic
+
+## Classes
+Explain the concept of objects, and the use of objects in the graphics library
+- Classes
+- extending classes and inheritance
+
+## Mathmatics 
+Apply Boolean algebra, expressions, and data types
+Describe the details of programs that perform programmatic numerical computations
+
+## Testing and Exception Handling
+Describe how to handle program exception
+- try catch in python

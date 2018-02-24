@@ -3,7 +3,7 @@ def say_message(message):
     print(message)
 
 ## Variables are assigned a pattern like
-## nameofva = "value" 
+## nameofvar = "value" 
 message = "Hello World"
 
 ## Call a function using it's name

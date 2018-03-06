@@ -1,5 +1,5 @@
 # Extending Classes in Python
-Learn about extending existing Classes, and importing classes from files this chapter.
+Learn about extending existing Classes, and importing classes from files in this chapter.
 
 ## Overview
 You can extend existing Python classes using the "class Classname(ParentClass):" syntax. By extending an existing class, you are able to reuse existing code. You can override class functions by using the same namespace for variables and class functions.

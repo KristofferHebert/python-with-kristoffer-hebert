@@ -19,11 +19,11 @@ https://gist.github.com/KristofferHebert/3fea9f75d341313be226d9b50a531508
 - Use a getter function to access these private __variables
 - Instantiate a class with class = Classname(argument1, argument2)
 
-## Next Steps
+### Next Steps
 Stay tuned for the next tutorial!
 
-## Want to start from the beginning?
+### Want to start from the beginning?
 https://medium.com/@khbrt/python-with-kristoffer-hebert-5cce2fa4e6ab
 
-## Have suggestions? Make a pull request!
+### Have suggestions? Make a pull request!
 https://github.com/KristofferHebert/python-with-kristoffer-hebert

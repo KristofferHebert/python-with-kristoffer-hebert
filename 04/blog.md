@@ -2,22 +2,17 @@
 Learn about extending existing Classes, and importing classes from files this chapter.
 
 ## Overview
-Classes in Python allow you to group related variables and function inside reusable code. The syntax for classes is "class Classname:" Each class should have a __init__ function that is fired every time a class is instantiated. You instantiate a class with class = Classname(argument1, argument2).  
+You can extend existing Python classes using the "class Classname(ParentClass):" syntax. By extending an existing class, you are able to reuse existing code. You can override class functions by using the same namespace for variables and class functions.
 
-Within Classes you don't want every variable to be accessible. For example, you wouldn't want a class of User to be able to change it's self to have the permissions of an Admin. People could use this to maliciously harm your website. Private variables have the syntax of "__variable" and are usually grouped with the variables above "__init__".
+You can import existing classes from seperate files using the "from folder_name.file_name import ClassName". If the class file exists in a seperate folder, create __init__.py file. Inside that file add an array of files names in the __all__ variable. Should look like __all__ = ["file, file2, file3"]
 
-Hashlib is a hashing library within Python. It can be used encrypt sensitive data like passwords. You should never store passwords in the database as plain text. Use "import hashlib" to import the library.
-
-Time is a Python library used for time related functions. Use "import time" to import the library. 
  
 ## Admin class Code
 https://gist.github.com/KristofferHebert/227cf115c745b2cf8b8f418bbe926f42
 
 ## Summary
 - Extending Class syntax is "class Classname(ParentClass):"
-- import a class from file via "from folder_name.file_name "
-- Use a getter function to access these private __variables
-- Instantiate a class with class = Classname(argument1, argument2)
+- import a class from file via "from folder_name.file_name import ClassName"
 
 ### Next Steps
 Stay tuned for the next tutorial!

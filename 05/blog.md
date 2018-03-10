@@ -6,7 +6,7 @@ The syntax of Python "for" loop is "for item of items:". You can use this to loo
 
 The syntax of Python "while" loop is "while(boolean statement):". An example of a boolean statment would be "variable < 25". If the value of "variable" is 5, this statement will return true and the loop will continue. You can increment "variable" like this: "variable +=1". What this does is add 1 to the value of "variable". Eventually "variable" will be greater than 25 and return false. This will break the while loop.
 
-You can treat "while" statements like an "if" statment and use an "else:" case. "Else" is executed when the "if" clause is false.
+You can treat "while" statement like an "if" statment and use an "else:" case. "Else" is executed when the "if" clause is false.
 
 You can also break loops with "break" keyword.  
  

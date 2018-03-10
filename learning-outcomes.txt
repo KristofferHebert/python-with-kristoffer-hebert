@@ -1,6 +1,6 @@
 chapter outline
 
-## Functions
+## Functions DONE
 - variables
 - string manipulation
 Explain the use of functions
@@ -12,17 +12,20 @@ Discuss how to process strings, lists, and files
 - String manipulation
 - Arguments ARGV
 
-## Loops
+## Loops DONE
 Discuss the use of programming loops
 - while loops
 - for loops
 Explain the concept of decision structures
 - show boolean logic
 
-## Classes
-Explain the concept of objects, and the use of objects in the graphics library
+## Classes DONE
+Explain the concept of objects
 - Classes
 - extending classes and inheritance
+
+## Graphics
+- The use of objects in the graphics library
 
 ## Mathmatics 
 Apply Boolean algebra, expressions, and data types

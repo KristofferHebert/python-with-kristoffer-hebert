@@ -6,8 +6,10 @@ chapter outline
 Explain the use of functions
 - how to define a function
 
-## DATA STRUCTURES String manipulation, lists and File reader  
+## DATA STRUCTURES DONE String manipulation, lists
 Discuss how to process strings, lists, and files
+
+## Files  
 - File reader
 - String manipulation
 - Arguments ARGV

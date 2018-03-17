@@ -29,4 +29,4 @@ except Exception as error:
     print error
 
 ## Run in the terminal with this command
-## python file_reader.py demopgrahic.py
+## python file_reader.py tryexcept.py

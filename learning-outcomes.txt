@@ -9,7 +9,7 @@ Explain the use of functions
 ## DATA STRUCTURES DONE String manipulation, lists
 Discuss how to process strings, lists, and files
 
-## Files  
+## Files DONE
 - File reader
 - String manipulation
 - Arguments ARGV

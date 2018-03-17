@@ -33,6 +33,6 @@ Explain the concept of objects
 Apply Boolean algebra, expressions, and data types
 Describe the details of programs that perform programmatic numerical computations
 
-## Testing and Exception Handling
+## Testing and Exception Handling DONE
 Describe how to handle program exception
 - try catch in python
